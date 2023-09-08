@@ -10,15 +10,15 @@ In this project, I have used OpenWeatherMap API combined with Google Maps Places
 
 ### OpenWeatherMap API
 
-1. The parameters used are appid and units. The data gets returned in JSON/XML and properties used from the response are weather, main and wind. Below is an example of JSON API response.
+The parameters used are appid and units. The data gets returned in JSON/XML and properties used from the response are weather, main and wind. 
 
 ### Google Maps Places API
 
-2. **Google Maps Places API call link**:
-
-   The parameters used include:
+ The parameters used include:
    - `types`: Specifies the type of place you want to search for.
    - Other parameters such as `offset`, `location`, `radius`, `language`, etc., may also be used based on your requirements.
+
+
 
 ### Tween Animation
 
